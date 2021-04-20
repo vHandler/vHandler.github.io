@@ -1,0 +1,9 @@
+{
+  "name": "my-website",
+  "version": "0.0.0",
+  "description": "MyWebsite",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
